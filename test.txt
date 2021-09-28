@@ -1,6 +1,2 @@
-I am testing file for main
-Now second commit is done
+I am on feature
 
-I am on main branch again
-
-i am on main branch again for rebase
