@@ -1,2 +1,6 @@
 I am master for diff 1st commit
 I am master for diff 2nd commit
+change for diff
+2nd change for diff
+
+stashing...
